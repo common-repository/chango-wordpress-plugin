@@ -1,0 +1,32 @@
+#chango #postaiosp {margin-top: 30px; width: 75%;}
+#chango #postaiosp h3 {margin-top: 0px; cursor: default; padding: 20px; background: none; background-color: black;}
+#chango #postaiosp .inside {
+	margin: 0;
+	padding: 0;
+	-moz-background-clip:border;
+	-moz-background-inline-policy:continuous;
+	-moz-background-origin:padding;
+	background:transparent none repeat scroll 0 0;
+	border:0 none;
+	outline-color:-moz-use-text-color;
+	outline-style:none;
+	outline-width:0;
+}
+#chango #postaiosp.postbox {padding: 0;}
+#chango .postbox {
+	width: 88%;
+	margin-left: 25px;
+	padding-left: 25px;
+	border-color: #DFDFDF;
+	-moz-border-radius-bottomleft:6px;
+	-moz-border-radius-bottomright:6px;
+	-moz-border-radius-topleft:6px;
+	-moz-border-radius-topright:6px;
+	border-style:solid;
+	border-width:1px;
+	line-height:1;
+	margin-bottom:20px;
+}
+
+#chango .wrap {margin: 0 15px 0 5px; width: 100%;}
+#chango table, #chango form {width: 100%;}
